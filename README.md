@@ -1,14 +1,15 @@
+**1MS22CS096**
 Nitya
 Email: [nitya.2004cse@gmail.com]
 LinkedIn: https://www.linkedin.com/in/nityashree-radhakrishnan-83203932a/
 
-About
+**About**
 I am a third-year Computer Science Engineering student at MSRIT, with a strong academic record and proficient in Python, Java, C, and front-end development using Angular JS & HTML. I am passionate about software development and thrive in collaborative environments where I can contribute my skills in problem-solving, team collaboration, presentation and leadership. With a continuous drive to learn and explore new technologies, I am eager to take on new challenges
 Education
 Bachelor of Engineering (B.E.) in Computer Science Engineering
 M.S. Ramaiah Institute of Technology (MSRIT), Bangalore — Expected 2026
 
-Education : 
+**Education**
 
 10th - 92 % [Year Of Graduation : 2020]
 SSB International School
@@ -22,11 +23,11 @@ Bachelor of Engineering - BE Computer Science cgpa - 8.8 [Up to Third sem]
 [Year Of Graduation : 2022 - 2026]
 Activities and Societies: - Developed a web page for crime record management, designed to maintain, organize, and manage crime records effectively. Participated in : -Smart India Hackathon [2024] . -image processing project .
 
-Experience
+**Experience**
 Intern at Cranes Varsity Pvt. Ltd. 
 Currently undergoing training in Data Science with AI/ML, after which I will be working on a project using Python.
 
-Relevant Coursework:
+**Relevant Coursework**
 
 Data Structures
 Algorithms
