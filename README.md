@@ -1,4 +1,4 @@
-# Nitya - 1MS22CS096
+# Resume
 
 **Email:** [nitya.2004cse@gmail.com](mailto:nitya.2004cse@gmail.com)  
 **LinkedIn:** [Nityashree Radhakrishnan](https://www.linkedin.com/in/nityashree-radhakrishnan-83203932a/)
