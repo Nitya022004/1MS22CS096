@@ -3,9 +3,6 @@
 **Email:** [nitya.2004cse@gmail.com](mailto:nitya.2004cse@gmail.com)  
 **LinkedIn:** [Nityashree Radhakrishnan](https://www.linkedin.com/in/nityashree-radhakrishnan-83203932a/)
 
-<img src="" alt="My Profile Image" width="200" height="200">
-
-
 ---
 
 ## About
